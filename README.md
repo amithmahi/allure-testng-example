@@ -1,5 +1,5 @@
 
-## Allure TestNG Example
+## Allure TestNG Examples
 
 ### Getting Started
 
