@@ -1,7 +1,7 @@
 
 ## Allure TestNG Examples
 
-### Getting Started
+### Getting Started1
 
 To generate Allure Report you should perform following steps:
 
